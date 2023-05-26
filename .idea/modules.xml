@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Veniqa-develop.iml" filepath="$PROJECT_DIR$/.idea/Veniqa-develop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ecommerce-node.iml" filepath="$PROJECT_DIR$/.idea/ecommerce-node.iml" />
     </modules>
   </component>
 </project>
