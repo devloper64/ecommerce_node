@@ -101,7 +101,7 @@ export default {
         let condensedOrderObj = this.parseOrderDetailsForEmail(orderObj);
         // setup email data with unicode symbols
 
-            readHTMLFile('/home/coder/Desktop/Veniqa-develop/shopping-server/views/email/order_received.html', function(err, html) {
+            readHTMLFile('/mnt/2c446387-abe5-44fc-9478-648379af0f64/IdeaProjects/ecommerce-node/shopping-server/views/email/order_received.html', function(err, html) {
                 if (err) {
                     console.log('error reading file', err);
                     return;
